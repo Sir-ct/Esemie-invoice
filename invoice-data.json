@@ -1,0 +1,38 @@
+[
+    {
+        "id":45362,
+        "invoiceNumber":"INV-75687",
+        "invoiceDate": "2023-08-02T22:27:05.6047833Z",
+        "dueDate": "2023-08-29T06:33:41.364281Z",
+        "invoiceNotes": "Quibusdam eius aut dolor molestiae a ea est rerum quia quos voluptatem veritatis totam ea.",
+        "customerName":"Darron Padberg",
+        "customerEmail":"Mozelle_Hagenes90@gmail.com",
+        "billingAddress":{
+            "street":"82658 Zackery Via",
+            "city":"Raynorcester",
+            "state":"OR",
+            "zip":"88846-7063"
+        },
+        "paymentDetails":{
+            "bank": "UBA",
+            "accountNumber":"0044986534",
+            "accountName": "Darron Padberg"
+        },
+        "items":[
+            {
+                "name":"Practical Granite Chips",
+                "quantity":36557,
+                "price":893
+            },
+            {
+                "name": "Consequatur et quo.",
+                "quantity": 79,
+                "price": 85
+             }
+        ],
+        "subtotal":162,
+        "tax":10,
+        "total":702,
+        "paid":true
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "name": "Esemie maybe",
+    "phone": "+2347099685746",
+    "billingAddress":{
+        "street": "whatever street",
+        "city": "Ikeja",
+        "state": "Lagos",
+        "country": "Nigeria"
+    }
+}
