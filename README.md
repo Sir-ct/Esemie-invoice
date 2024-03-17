@@ -7,7 +7,7 @@ This project is a single-page React Native application, built with Expo, shows a
 - Expo: Streamlined development environment for creating React Native apps
 
 ### File Structure:
-
+```
 Esemie-invoice/
 ├── App.js               # Main application
 ├── company-details.json    # Mock company data
@@ -18,7 +18,7 @@ assets
 │   └── ...              # Other images and splash images
 ├── package.json         # Project dependencies and configuration
 ├── App.json              # Configuration specific to Expo
-
+```
 
 ### Setup:
 
